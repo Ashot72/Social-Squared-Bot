@@ -1,2 +1,1 @@
-# Social-Squared-Bot
-Lightning Tools Social Squared Forums Bot
+Go to Lightning Tools [Social Squared](https://github.com/Lightning-Tools/Social-Squared-Bot) respository.
